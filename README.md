@@ -1,3 +1,7 @@
+<h1>Expense Tracker App </h1>
+React app from this tutorial: https://www.youtube.com/watch?v=XuFDcZABiDQ
+
+<img width="1440" alt="Screen Shot 2022-01-26 at 22 44 40" src="https://user-images.githubusercontent.com/70534820/151235400-ceaf537e-3b8a-412e-830c-3dac04542b2f.png">
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
